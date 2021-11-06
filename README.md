@@ -1,5 +1,9 @@
 # FRIENDS APP 
 
-This is an app that keeps track of your friends' contact information
-* ...
-# friends_rails
+This is a rails app that keeps track of your friends' contact information
+
+## How to install 
+
+```sh
+
+```
