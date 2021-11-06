@@ -8,9 +8,14 @@ This is a rails app that keeps track of your friends' contact information
 git clone git@github.com:AnastasisGi/friends_rails.git
 cd friends_rails
 bundle install
-rails db:create
+Srails db:create
 rails db:migrate
 rails webpacker:install
 rails s
 
+
+See it live : https://railsappfriendslist.herokuapp.com 
+
 ```
+
+
